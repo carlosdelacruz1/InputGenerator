@@ -19,5 +19,5 @@ En este repositorio tenemos un conjunto de codigos para generar inputs aleatorio
 ![ghg4](https://github.com/carlosdelacruz1/InputGenerator/blob/main/screenshots/ghg4.png)
 
 
-![genbank](https://github.com/carlosdelacruz1/InputGenerator/blob/main/screenshots/ghg4.png)
+![genbank](https://github.com/carlosdelacruz1/InputGenerator/blob/main/screenshots/mdo.JPG)
 
