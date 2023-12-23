@@ -4,20 +4,41 @@ En este repositorio tenemos un conjunto de codigos para generar inputs aleatorio
 
 ## Se muestran distintos ejemplos y capturas de pantalla del codigo existente:
 
+
+## Generacion archivo GenBank
+
+
 ![genbank](https://github.com/carlosdelacruz1/InputGenerator/blob/main/screenshots/genbank1.JPG)
 
 
-![ghg](https://github.com/carlosdelacruz1/InputGenerator/blob/main/screenshots/ghg.JPG)
+
+## Datos Gases Efecto Invernadero 
 
 
-![ghg2](https://github.com/carlosdelacruz1/InputGenerator/blob/main/screenshots/ghg2.JPG)
+![ghg](https://github.com/carlosdelacruz1/InputGenerator/blob/main/screenshots/ghg2.JPG)
 
 
-![ghg3](https://github.com/carlosdelacruz1/InputGenerator/blob/main/screenshots/ghg3.png)
 
-
-![ghg4](https://github.com/carlosdelacruz1/InputGenerator/blob/main/screenshots/ghg4.png)
+## Datos Modeo reactor
 
 
 ![genbank](https://github.com/carlosdelacruz1/InputGenerator/blob/main/screenshots/mdo.JPG)
+
+
+## Informe Medico
+
+
+![informe](https://github.com/carlosdelacruz1/InputGenerator/blob/main/screenshots/informeMedico.JPG)
+
+
+## Dataset Diabetes
+
+
+![diab](https://github.com/carlosdelacruz1/InputGenerator/blob/main/screenshots/diabet.JPG)
+
+
+## Analitica
+
+
+![analitica](https://github.com/carlosdelacruz1/InputGenerator/blob/main/screenshots/analitica.JPG)
 
